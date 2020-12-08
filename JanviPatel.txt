@@ -1,0 +1,58 @@
+    1  cd ../
+    2  git clone https://github.com/Janviii/sd130-assignment-2-repo-7.git
+    3   git branch issue1 && git checkout issue1
+    4  git branch issue1
+    5  cd sd130-assignment-2-repo-7/
+    6  git branch issue1
+    7  git checkout issue1 
+    8  ls
+    9  cd src/
+   10  ls
+   11  cd styles/
+   12  touch newfile.css
+   13  ls
+   14  cd ../
+   15  explorer.exe .
+   16  code .
+   17  npm i -g gulp
+   18  code .
+   19  cd ../
+   20  npm init --yes
+   21  code .
+   22  npm --save-dev gulp
+   23  gulp
+   24  npm install -g gulp
+   25  gulp
+   26  npm install
+   27  gulp 
+   28  npm i --save-dev gulp-concat
+   29  gulp
+   30  git checkout main
+   31  git merge issue1 
+   32  git commit -m "adds new css file to styles directory and also add concat package to gulpfile.js"
+   33  git log
+   34  git add .
+   35  git add .
+   36  git status
+   37  git commit -m "adds new css file to styles directory and also add concat package to gulpfile.js'
+q
+   38  git commit -m "adds new css file to styles directory and also add concat package to gulpfile.js"
+   39  git status
+   40  git push
+   41  git pull
+   42  git push
+   43  git branch issue2
+   44  git checkout issue2
+   45  code .
+   46  npm i --save-dev gulp-postcss uglify-js postcss
+   47  code .
+   48  npm i gulp-uglify
+   49  code .
+   50  git checkout main
+   51  git merge issue2
+   52  git add .
+   53  git add .
+   54  git commit -m "adds some content to main.js file and some packages to gulpfile.js"
+   55  git pull
+   56  git push
+   57  history > JanviPatel.txt
